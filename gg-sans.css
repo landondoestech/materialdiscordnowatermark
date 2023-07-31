@@ -1,0 +1,69 @@
+@font-face {
+    font-family: gg sans;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/assets/3d6549bf2f38372c054eafb93fa358a9.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: italic;
+    font-weight: 400;
+    src: url(/assets/dd1dfe31c073b2b0a8f94cb1a0b7fbb0.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: normal;
+    font-weight: 500;
+    src: url(/assets/7f63813838e283aea62f1a68ef1732c2.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: italic;
+    font-weight: 500;
+    src: url(/assets/2ada321f62e9743e0f9f2882960c8f9d.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: normal;
+    font-weight: 600;
+    src: url(/assets/71d3e9dc2bcb8e91225ba9fab588c8f2.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: italic;
+    font-weight: 600;
+    src: url(/assets/e3cd8b0354d764c89f6abcf561081a85.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/assets/ff5eccde83f118cea0224ebbb9dc3179.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: italic;
+    font-weight: 700;
+    src: url(/assets/41a3d598a613a77c1d80b3ec957a2975.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: normal;
+    font-weight: 800;
+    src: url(/assets/f5aba5511523dcae97748a1b35bbffe8.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: gg sans;
+    font-style: italic;
+    font-weight: 800;
+    src: url(/assets/b10a4ad08f83816da8deaa1c1963dd04.woff2) format("woff2")
+}
